@@ -1,2 +1,3 @@
-# Infinity
-非常重要
+# Infinity installer
+jar
+json

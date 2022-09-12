@@ -1,3 +1,0 @@
-# Infinity installer
-jar
-json
